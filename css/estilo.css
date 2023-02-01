@@ -2,3 +2,10 @@ h1 {
     color :blue;
     background-color: brown;
 }
+
+p2 {
+    color:navy;
+    background-color:aquamarine;
+    border-radius: 5px;
+}
+
