@@ -1,6 +1,7 @@
 h1 {
     color :blue;
     background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 p2 {
@@ -8,4 +9,3 @@ p2 {
     background-color:aquamarine;
     border-radius: 5px;
 }
-
